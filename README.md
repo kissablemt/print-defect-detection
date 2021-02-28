@@ -1,4 +1,6 @@
 # Print Defect Detection(铭牌印刷缺陷视觉检测系统)
+
+加载过慢可查看README.png
 --- 
 
 ![picture 1](images/7574d22ad94137e02ffb82f8241e1bf6f4736618d7f32f2c527e2b31882cb4ea.png)  
